@@ -8,8 +8,8 @@ CS 5710 and 21627
 # Description : 
 This Project is about the basic understanding of python libraries and functions.
 In this project we have used string operations. Also String formatting.
-We also done the KNN classifications and found the ROC analysis.
+
 # Files attached :
 python code - assignment2
-word document - assignment2
+word document - 700740439_Assignment2_MachineLearning
 
